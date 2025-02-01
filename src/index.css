@@ -1,0 +1,12 @@
+div{
+  /* background-image: url(./assets/1.gif); */
+  /* font-size: 4rem; */
+  /* font-weight: bold; */
+  background-image:-webkit-linear-gradient(transparent, transparent), url(./assets/1.gif);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  color: #3D434A;
+  text-align: center;
+  /* filter: opacity(86%); */
+  padding: 20px;
+}
